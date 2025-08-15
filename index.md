@@ -55,5 +55,10 @@ Hi! My name is [rebecca].
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
 <a button id="myButton">Click Me!</button>
-   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
-</a>
+    <document.getElementById('confettiButton').addEventListener('click', () => {
+        <confetti({
+            particleCount: 100,
+            spread: 70,
+            origin: { y: 0.6 }
+        });
+    });
