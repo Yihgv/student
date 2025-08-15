@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [Your Full Name]
+title: I'm [rebecca]
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [Your Full Name].
+Hi! My name is [rebecca].
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
@@ -31,8 +31,8 @@ Hi! My name is [Your Full Name].
 <a href="https://kasm.opencodingsociety.com/" class="button small" style="background-color: #6b4bd3ff">
     KASM
 </a>
-<a href="https://vscode.dev/" class="button small" style="background-color: #d38a4bff">
-    <span style="color: #FFFFFF">VSCODE</span>
+<a href="https://vscode.dev/" class="button small" style="background-color: #ce8520ff">
+    <span style="color: #16d4c7ff">VSCODE</span>
 </a>
 
 <br>
@@ -54,3 +54,5 @@ Hi! My name is [Your Full Name].
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+<button id="myButton">Click Me!</button>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
