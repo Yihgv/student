@@ -25,7 +25,7 @@ Topics:
     subtitle: "Web Development & UI"
     description: "HTML/JS kernels enable real-time web development and testing. Perfect for experimenting with DOM manipulation, CSS styling, and JavaScript functionality in an interactive environment before deploying to production."
   - title: "Java Kernel"
-    image: "/kernels/javakernel.jpg"
+    : "/kernels/javakernel.jpg"
     link: "/tools/kernels/java"
     alt: "Java Kernel"
     keyPoints:

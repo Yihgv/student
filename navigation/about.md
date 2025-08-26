@@ -7,12 +7,6 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
-
-<comment>
-Flags are made using Wikipedia images
-</comment>
-
 <style>
     /* Style looks pretty compact, 
        - grid-container and grid-item are referenced the code 
@@ -98,18 +92,17 @@ Flags are made using Wikipedia images
 </script>
 
 ### Journey through Life
-
-Here is what I did at those places
-
--I am a student
+- I came from China to US for study, I'm interested in coding so i chose this class, I started hard but also got a lot of help from the friend I met here
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+- I came from Guangzhou, China and I'm actually a Chinese American
+- I am alone here without my family but I met a lot of friends, I like here
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+ <comment>The city I came from (guangzhou)<comment>
+ <img src="https://content.r9cdn.net/rimg/dimg/87/07/2a86d6b1-city-17708-17ea24f8693.jpg?width=1366&height=768&xhint=1566&yhint=937&crop=true" alt="My city">
+ <comment>The city I am now (San Diego)<comment>
+ <img src="https://mediaim.expedia.com/destination/9/520f9a5c23b83a8f58f9090ff497c08e.jpg">
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
