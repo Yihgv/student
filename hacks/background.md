@@ -8,6 +8,7 @@ sprite: images/cat walking/AdobeStock_1527422122_Preview.png
 background: images/cat walking/sebastian-unrau-AAmVGUnUrpU-unsplash.jpg
 permalink: /background
 ---
+
 <!-- HTML for where Game is stored -->
 <canvas id="world"></canvas>
 
