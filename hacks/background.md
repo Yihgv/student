@@ -1,14 +1,17 @@
 ---
+# YML definition of metadata for file, used by GH pages
 layout: opencs
 title: Background with Object
 description: Use JavaScript to have an in motion background.
+# This are locations of images in this game
 sprite: images/cat walking/AdobeStock_1527422122_Preview.png
 background: images/cat walking/sebastian-unrau-AAmVGUnUrpU-unsplash.jpg
 permalink: /background
 ---
-
+<!-- HTML for where Game is stored -->
 <canvas id="world"></canvas>
 
+<!-- Script logic of the game -->
 <script>
   const canvas = document.getElementById("world");
   const ctx = canvas.getContext('2d');
@@ -76,8 +79,12 @@ permalink: /background
       }
     }
 
+    /* Game World is master class for the entire game
+    * the game loop is inside
+    */
     class GameWorld {
       static gameSpeed = 5;
+       // images enter the world
       constructor(backgroundImg, spriteImg) {
         this.canvas = document.getElementById("world");
         this.ctx = this.canvas.getContext('2d');
@@ -91,11 +98,13 @@ permalink: /background
         this.canvas.style.left = `0px`;
         this.canvas.style.top = `${(window.innerHeight - this.height) / 2}px`;
 
+        // Game objects are created
         this.gameObjects = [
          new Background(backgroundImg, this),
          new Player(spriteImg, this)
         ];
       }
+        // This keep game alive and running
       gameLoop() {
         this.ctx.clearRect(0, 0, this.width, this.height);
         for (const obj of this.gameObjects) {
@@ -110,5 +119,7 @@ permalink: /background
     }
 
     const world = new GameWorld(backgroundImg, spriteImg);
+
+     // starts the game world
     world.start();
   }
