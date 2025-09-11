@@ -29,8 +29,8 @@ code <span class="nb">.</span>
 
 
 ## Open VS code 
-</p>
 
+- Type in and run line by line the code below whenever start a new terminal
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd </span>opencs/student
 <span class="nb">source </span>venv/bin/activate <span class="c"># activate Python virtual environment</span>
 code <span class="nb">.</span>
@@ -38,3 +38,11 @@ code <span class="nb">.</span>
 
   - Start a session to work in VSCode
   - You can work in it your student folder now
+  - Remember to save your change before submit your changes (ctrl+s)
+
+  ## Trouble might have
+  - Synchronization system
+  Shows problem when submitting changes
+  - Run this code in the VS code terminal
+  <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">git pull</span>
+</code></pre></div></div>
