@@ -50,3 +50,6 @@ code <span class="nb">.</span>
 
   - Check you sign in setting or the file you're working on if you have any trouble you can't fix.
   - Find your data in the change in Source Control if you accidentlly delete something.
+
+  ## Tip
+  - Ask chatgpt to fix problem
