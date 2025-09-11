@@ -36,13 +36,17 @@ code <span class="nb">.</span>
 code <span class="nb">.</span>
 </code></pre></div></div>
 
-  - Start a session to work in VSCode
+  - Start a session to work in VSCode (code .)
+  - Using Clone Git Repository to open your student file in Desktop/opencs/student
   - You can work in it your student folder now
   - Remember to save your change before submit your changes (ctrl+s)
 
   ## Trouble might have
   - Synchronization system
-  Shows problem when submitting changes
-  - Run this code in the VS code terminal
+  (shows problem when submitting changes), run this code in the VS code terminal
   <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">git pull</span>
 </code></pre></div></div>
+
+
+  - Check you sign in setting or the file you're working on if you have any trouble you can't fix.
+  - Find your data in the change in Source Control if you accidentlly delete something.
