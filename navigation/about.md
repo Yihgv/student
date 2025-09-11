@@ -7,7 +7,18 @@ comments: true
 
 ## As a conversation Starter
 
+### Journey through Life
+- I came from China to US for study, I'm interested in coding so i chose this class, I started hard but also got a lot of help from the friend I met here
 
+### Culture, Family, and Fun
+
+- I came from Guangzhou, China and I'm actually a Chinese American
+- I am alone here without my family but I met a lot of friends, I like here
+
+ <comment>The city I came from (guangzhou)<comment>
+ <img src="https://content.r9cdn.net/rimg/dimg/87/07/2a86d6b1-city-17708-17ea24f8693.jpg?width=1366&height=768&xhint=1566&yhint=937&crop=true" alt="My city">
+ <comment>The city I am now (San Diego)<comment>
+ <img src="https://mediaim.expedia.com/destination/9/520f9a5c23b83a8f58f9090ff497c08e.jpg">
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
