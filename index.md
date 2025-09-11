@@ -1,12 +1,12 @@
 ---
 layout: base
-title: I'm [rebecca]
+title: I'm Rebecca
 hide: true
 ---
 
 ### Me and Team
 
-Hi! My name is [rebecca].
+Hi! My name is Rebecca.
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
