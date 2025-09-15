@@ -20,6 +20,7 @@ permalink: /background
   const spriteImg = new Image();
   backgroundImg.src = '{{page.background}}';
   spriteImg.src = '{{page.sprite}}';
+ // cavas and image setup
 
   let imagesLoaded = 0;
   backgroundImg.onload = function() {
@@ -30,9 +31,10 @@ permalink: /background
     imagesLoaded++;
     startGameWorld();
   };
-
+ // image loading check
   function startGameWorld() {
     if (imagesLoaded < 2) return;
+// starting the game world when both the background and sprite images are loaded
 
     class GameObject {
       constructor(image, width, height, x = 0, y = 0, speedRatio = 0) {
@@ -49,6 +51,7 @@ permalink: /background
         ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
       }
     }
+// The basic of the game setting
 
     class Background extends GameObject {
       constructor(image, gameWorld) {
@@ -63,7 +66,7 @@ permalink: /background
         ctx.drawImage(this.image, this.x + this.width, this.y, this.width, this.height);
       }
     }
-
+// The backgroung setting
     class Player extends GameObject {
       constructor(image, gameWorld) {
         const width = image.naturalWidth / 2;
@@ -79,7 +82,8 @@ permalink: /background
         this.frame++;
       }
     }
-
+  // The character setting
+  
     /* Game World is master class for the entire game
     * the game loop is inside
     */
