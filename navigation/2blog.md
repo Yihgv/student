@@ -2,15 +2,15 @@
 layout: blogs 
 title: Blogs
 search_exclude: true
-permalink: /personal-blogs/
+permalink: /Retrospective-blogs/
 ---
 
-# A Blog Looking Back: My Growth This Semester 
+## A Blog Looking Back: My Growth This Semester 
 
 
-# 1. Comparing Yourself to the Beginning of the Year 💭
+## 1. Comparing Yourself to the Beginning of the Year 💭
 
-## What skills did you not have then, but have now?
+### What skills did you not have then, but have now?
 At the beginning of the year, I barely knew how to use most of the tools in computer science. My coding skills were basically limited to making text bold in Google Docs. VS Code was a mysterious shape, GitHub sounded like a hub for nerdy cats, and if you'd told me I'd be using a "terminal," I'd have assumed I was joining the Intelligence Agency or something.
 
 I didn’t really understand VS Code, GitHub, and how websites were structured. Now, after one semester of AP CSP, I have more understanding of writing code in both JavaScript and Python, I am able to build pages on my website, and organize my files correctly.
@@ -19,35 +19,35 @@ My confidence has grown a lot because debugging no longer feels impossible.
 
 I’m better at using AI to help myself, finding errors, checking the console, and fixing mistakes. I’m also more organized with my repositories and better at managing my time during long assignments. Collaborating with others has become easier too.
 
-# 2. Key Takeaways From the Three Sprints 🗡️
+## 2. Key Takeaways From the Three Sprints 🗡️
 
 
-## Sprint 1: Tools
+### Sprint 1: Tools
 
 This was the "I have no idea what I'm doing" phase. I made more commits with messages like "please work" and "idk what this does". Learning that the terminal isn't just for cool hackers in movies was a revelation. When Jekyll finally built my site without 50 errors, I felt a power surge normally reserved for discovering a new keyboard shortcut.
 This sprint helped me understand the basics: VS Code, GitHub, the Terminal, and Jekyll.
 At first, GitHub was confusing because I didn’t understand how commits and pushes worked, but now it makes sense. Learning how the Terminal controls environments and how Jekyll builds my website made me feel like a real developer.
 
-## Sprint 2: Fundamentals of JavaScript/Python
+### Sprint 2: Fundamentals of JavaScript/Python
 
 The **Onboarding Adventure Hacks assignment** was my first solo coding victory. It was like giving a caveman a stick and coming back to find he'd built a slightly wobbly but functional chair. I was so proud.
 I learned loops, conditionals, variables, functions, and how programs process data.
 I feel a little more comfortable with Python because the syntax is cleaner, but I’m improving in JavaScript too.
 One assignment I’m proud of was the game hacks, it was the first assignment I did by myself, but I figured it out.
 
-## Sprint 3: Digital Famine
+### Sprint 3: Digital Famine
 
 In this sprint, I was getting used to code, I worked with knowledges and used it to build my team's project. I learned what an AI API is and how to use it.
 The part of my project that worked best was organizing the words of knowledges and showing it in a way that made sense. Even when code doesn't work, I learned to fix them piece by piece.
 
-# 3. N@tM (Night at the Museum) Reflection 🌃
+## 3. N@tM (Night at the Museum) Reflection 🌃
 
 N@tM was exciting because I got to share my project with real visitors.
 People were curious about my project, and a few even said they liked the design and the idea behind it.
 One thing that surprised me was how explaining something out loud made me notice small improvements I could make.
 Next time, I’d prepare a shorter explanation and add more visuals and funny factors in my contexts so people will understand the project faster in a fun way.And free candy. Everything is better with free candy.
 
-# 4. Project Next Steps 💡
+## 4. Project Next Steps 💡
 
 If I had more time, I would:
 
@@ -62,7 +62,7 @@ If I had more time, I would:
 - Organize my code so that future me doesn't want to punch past me in the face.
 
 
-# 5. What You Want to Learn Next in CompSci 🖥️
+## 5. What You Want to Learn Next in CompSci 🖥️
 
 Next semester, I want to learn:
 
@@ -74,14 +74,14 @@ Next semester, I want to learn:
 
 - Algorithms so I can improve my problem-solving skills
 
-# 6. Analytics Review 🏛️
+## 6. Analytics Review 🏛️
 
 Our website was commented great, The final quiz were the greatest.I will improve the funny factor if I can do it again. 
 
-# 7. MCQ Review 🚦
-### Score: 39/66
+## 7. MCQ Review 🚦
+#### Score: 39/66
 
-## Corrections:
+### Corrections:
 
 
 ### Q1 - Variable Swapping
@@ -214,12 +214,12 @@ include ← (floor > 10) OR (bedrooms = 3)
 ### Q64 - Cloud Computing
 **Critical Consideration**: Security to protect users' private data
 
-## What concepts I misunderstood:
+### What concepts I misunderstood:
  Undecidable problem, internet context and analyze data...
 
 I will read the data more carefully, and practice with similar questions
 
-# 8. Something Cool You’d Like to Share 🛎️
+## 8. Something Cool You’d Like to Share 🛎️
 
 One cool thing this semester was finally fixing a bug that kept breaking my JavaScript page. It turned out to be the Java symbol we use to run Javascript in the python enviroment. After finding it, the whole program worked perfectly.
 
